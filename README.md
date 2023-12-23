@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on JavaScript, React, NextJS, GraphQL 
+- 🌱 I’m currently learning 
+- 📫 How to reach me: Linkedin[https://www.linkedin.com/in/iam-ram-krishnan/]
