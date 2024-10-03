@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on  **JavaScript, React, NextJS, GraphQL**
+- 🔭 I’m currently working on  **JavaScript, React, NextJS, GraphQL, TypeScript**
 - 🌱 I’m currently learning  **Golang**
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/iam-ram-krishnan/)
