@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on  **JavaScript, React, NextJS, GraphQL, TypeScript**
 - 🌱 I’m currently learning  **Golang**
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/iam-ram-krishnan/)
+- ⚡  LeetCode : [LeetCode](https://leetcode.com/u/Ramkrish/)
