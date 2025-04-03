@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on  **JavaScript, React, NextJS, GraphQL, TypeScript**
-- 🌱 I’m currently learning  **Rust**
+- 🌱 I’m currently learning  **GoLang, Micro Frontends**
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ram-krishnan/)
 - ⚡  LeetCode : [Profile](https://leetcode.com/u/Ramkrish/)
