@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning  **GoLang, Micro Frontends**
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ram-krishnan/)
 - ⚡  LeetCode : [Profile](https://leetcode.com/u/Ramkrish/)
+- ✍️ Medium : [Profile](https://beyondthecode.medium.com)
