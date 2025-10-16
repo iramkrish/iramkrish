@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on  **JavaScript, React, NextJS, GraphQL, TypeScript**
-- 🌱 I’m currently learning  **GoLang, Micro Frontends**
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ram-krishnan/)
-- ⚡  LeetCode : [Profile](https://leetcode.com/u/Ramkrish/)
-- ✍️ Medium : [Profile](https://beyondthecode.medium.com)
+- 🔭 Working with **JavaScript**, **TypeScript**, **React**, **Next.js**, and **GraphQL**  
+- 🌱 Exploring **Go** and **Micro Frontends**  
+- 📫 Let’s connect on [Linkedin](https://www.linkedin.com/in/ram-krishnan/)
+- ⚡ Solving challenges on [LeetCode](https://leetcode.com/u/Ramkrish/)
+- ✍️ Writing thoughts on [Medium](https://beyondthecode.medium.com)
