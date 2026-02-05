@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 Working with **JavaScript**, **TypeScript**, **React**, **Next.js**, and **GraphQL**  
-- 🌱 Exploring **Go** and **Micro Frontends**  
+- 🌱 Learning **Go** and **Micro Frontends** to understand performance and distributed UI architecture
 - 📫 Let’s connect on [Linkedin](https://www.linkedin.com/in/ram-krishnan/)
 - ⚡ Solving challenges on [LeetCode](https://leetcode.com/u/Ramkrish/)
 - ✍️ Writing thoughts on [Medium](https://beyondthecode.medium.com)
